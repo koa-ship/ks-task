@@ -1,0 +1,23 @@
+{
+  "name": "ks-task",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "background",
+    "task"
+  ],  
+  "dependencies": {
+    "kue": "^0.11.0"
+  },
+  "devDependencies": {
+  },  
+  "scripts": {
+  },
+  "homepage": "https://github.com/koa-ship/ks-task",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koa-ship/ks-task.git"
+  },
+  "license": "MIT"
+}
