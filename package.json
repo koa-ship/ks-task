@@ -1,23 +1,21 @@
 {
-  "name": "ks-task",
+  "name": "ks-session",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "keywords": [
-    "background",
-    "task"
+    "session"
   ],  
   "dependencies": {
-    "kue": "^0.11.0"
   },
   "devDependencies": {
   },  
   "scripts": {
   },
-  "homepage": "https://github.com/koa-ship/ks-task",
+  "homepage": "https://github.com/koa-ship/ks-session",
   "repository": {
     "type": "git",
-    "url": "https://github.com/koa-ship/ks-task.git"
+    "url": "https://github.com/koa-ship/ks-session.git"
   },
   "license": "MIT"
 }
